@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.6c93d240.css",
+    "main.js": "/my-app/static/js/main.437f68b6.js",
+    "static/media/bannerImg.png": "/my-app/static/media/bannerImg.34f12b822e35100b1d9c.png",
+    "static/media/projectTwo.jpg": "/my-app/static/media/projectTwo.ee1142c4a367587997ee.jpg",
+    "static/media/projectFour.jpg": "/my-app/static/media/projectFour.e65e8732bfee0feb1646.jpg",
+    "static/media/contactImg.png": "/my-app/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/my-app/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/my-app/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectThree.jpeg": "/my-app/static/media/projectThree.a180cc245e467006797f.jpeg",
+    "static/media/projectFive.jpg": "/my-app/static/media/projectFive.4319fc2813e7a114b281.jpg",
+    "static/media/projectOne.jpg": "/my-app/static/media/projectOne.6ea5ce7fd80b41ebac60.jpg",
+    "index.html": "/my-app/index.html",
+    "main.6c93d240.css.map": "/my-app/static/css/main.6c93d240.css.map",
+    "main.437f68b6.js.map": "/my-app/static/js/main.437f68b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c93d240.css",
+    "static/js/main.437f68b6.js"
+  ]
+}
